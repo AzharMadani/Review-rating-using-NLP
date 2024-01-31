@@ -1,11 +1,11 @@
-Regression and Classification and Clustering is very easy on Relational datasets. And in the Case Study sessions, we have applied Classification and Clustering on Continuous, Categorical as well as Image datasets.
+Regression and Classification and Clustering is very easy on Relational datasets. I have applied Classification and Clustering on Continuous, Categorical as well as Image datasets.
 
 NLP coupled with ML Some major use cases of NLP applications created via ML are:
 1. Translation systems
 2. Chatbots
 3. Sentiment Analysis etc
 
-We are positive that clustering works on continuous & categorical data but does it work on textual data as well?
+I am positive that clustering works on continuous & categorical data but does it work on textual data as well?
 Ans: We'll find out (Yes)
 
 Data preprocessing
